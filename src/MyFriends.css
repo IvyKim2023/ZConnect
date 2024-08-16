@@ -1,0 +1,27 @@
+.friends-list-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+/* Header styling */
+.friends-list-header {
+    text-align: center;
+    font-size: 24px;
+    color: #3498db; /* Set your desired color */
+    padding: 10px 0;
+    background-color: #f1f1f1; /* Optional: Add background color */
+    border-bottom: 1px solid #ddd; /* Optional: Add bottom border */
+}
+
+.friends-list {
+    flex: 1;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+    max-width: 300px;
+}
+
+.friend-posts {
+    flex: 2;
+    padding: 20px;
+}

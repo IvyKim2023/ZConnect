@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+/* Sidebar for friends list */
+.sidebar {
+    width: 300px;
+    border-right: 1px solid #ddd;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+/* Main content for posts */
+.content {
+    display: block; /* Try changing this to block */
+    width: 100%;
+    padding: 20px;
+    overflow-y: auto;
+}
