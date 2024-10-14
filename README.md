@@ -14,6 +14,8 @@ The frontend implementations are in the src folder using Ant Design. Run `npm st
 
 The handler functions are in the rest of the go files and should be deployed on Gcloud.
 
+Update in `main.go` with your own Elastic Search URL installed on GCE, your bucket name, and your own project id and index.
+
 ## **Authors and Acknowledgment**
 
 This project was created by **[Ivy Jin](https://github.com/IvyKim2023)**.
