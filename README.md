@@ -10,7 +10,7 @@ REST API, ElasticSearch, ReactJS, Google Cloud
 
 ## **File/Folder Summary**
 
-The frontend implementations are in the src folder. Run `npm start`
+The frontend implementations are in the src folder using Ant Design. Run `npm start`
 
 The handler functions are in the rest of the go files and should be deployed on Gcloud.
 
