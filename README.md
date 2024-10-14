@@ -4,7 +4,7 @@
 
 This project is a full-stack social media web app that enables users to create and manage posts, add and delete friends, and check friends' posts and their own posts. 
 
-Use npm start.
+Run `npm start`
 ## **Framework & Tools & Libraries**
 
 REST API, ElasticSearch, ReactJS, Google Cloud
