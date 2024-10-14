@@ -20,6 +20,8 @@ import (
 	elastic "gopkg.in/olivere/elastic.v3"
 )
 
+// Update with your own Elastic Search URL installed on GCE,
+// your bucket name, and your own project id and index
 const (
 	INDEX       = "zconnect"
 	TYPE        = "post"
